@@ -1,0 +1,1 @@
+window.ASHG_CONFIG={stripePaymentLinks:{runner:'',tier3630:'',label:''},stripePublishableKey:'',waitlistEndpoint:''};
