@@ -21,3 +21,7 @@ th,td{padding:8px 10px;border-bottom:1px solid #ffffff14}
 th{color:var(--blue);font-size:12px;letter-spacing:.1em;text-transform:uppercase}
 td a{border-bottom:1px solid var(--red)}
 footer .copy{font-size:13px;margin:10px 0 0}
+
+.grid.shop{grid-template-columns:repeat(2,1fr);max-width:900px}
+.grid.shop .soon{margin:12px 0 0;font-size:13px;letter-spacing:.04em;text-transform:uppercase}
+@media(max-width:700px){.grid.shop{grid-template-columns:1fr}}
