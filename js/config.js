@@ -1,1 +1,13 @@
-window.ASHG_CONFIG={stripePaymentLinks:{runner:'',tier3630:'',label:''},stripePublishableKey:'',waitlistEndpoint:''};
+window.ASHG_CONFIG={
+  stripePaymentLinks:{
+    runner:'https://buy.stripe.com/9B628t0fS0EP2YF3Wm1Fe0t',
+    tier3630:'https://buy.stripe.com/4gM6oJd2EdrB7eVfF41Fe0u',
+    label:'https://buy.stripe.com/9B65kF3s42MX7eV8cC1Fe0v',
+    longSleeve:'https://buy.stripe.com/4gM00ld2EgDNfLrgJ81Fe0w',
+    tee:'https://buy.stripe.com/5kQ28t4w85Z9dDj3Wm1Fe0x',
+    cap:'https://buy.stripe.com/bJebJ38ModrB9n31Oe1Fe0y',
+    hoodie:'https://buy.stripe.com/cNi00ld2E3R11UBfF41Fe0z'
+  },
+  stripePublishableKey:'',
+  waitlistEndpoint:''
+};
