@@ -10,8 +10,7 @@ import mistralai.workflows as workflows
 
 async def main() -> None:
     workflow_classes = workflows.discover_all_workflows_in_package("worker.workflows")
-    async with workflows.WorkflowsClient() as workflows_client:
-        await workflows_client.run_worker(workflow_classes)
+    await workflows.run_worker(workflow_classes)
 
 
 if __name__ == "__main__":
