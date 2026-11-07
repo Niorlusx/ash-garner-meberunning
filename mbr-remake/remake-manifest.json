@@ -1,0 +1,192 @@
+{
+  "label": "MBR-RECORDS",
+  "artist": "Ash Garner",
+  "album": "36-30 Meberunning REMAKE",
+  "genre": "Aussie Trap Rap Drill House",
+  "origin": "Shepparton 3630, Goulburn Valley, Victoria, Australia",
+  "total_tracks": 26,
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Meberunning",
+      "style": "trap_house",
+      "theme": "Label anthem, GV pride, main man takeover",
+      "hook_concept": "Meberunning through the thirty-six-thirty (3630)"
+    },
+    {
+      "id": 2,
+      "title": "Soul On Fire",
+      "style": "trap_house",
+      "theme": "Passion burning, unstoppable drive, GV rise",
+      "hook_concept": "Soul on fire, 3630, taking it higher (higher)"
+    },
+    {
+      "id": 3,
+      "title": "She Talkin With It",
+      "style": "drill",
+      "theme": "Confidence, attention, main man presence",
+      "hook_concept": "She talkin with it, GV, she know I'm the man (the man)"
+    },
+    {
+      "id": 4,
+      "title": "New Wave No Copy",
+      "style": "trap_rap",
+      "theme": "Originality, trend-setting, unmatched style",
+      "hook_concept": "New wave, no copy, MBR, that's the wave (the wave)"
+    },
+    {
+      "id": 5,
+      "title": "Day 2 Way",
+      "style": "trap_rap",
+      "theme": "Hustle, the daily grind, two paths one choice",
+      "hook_concept": "Day 2 way, meberunning, no delay (no delay)"
+    },
+    {
+      "id": 6,
+      "title": "OG Must",
+      "style": "drill",
+      "theme": "Respect earned, original status, valley OG",
+      "hook_concept": "OG must, in the 3630, we the trust (the trust)"
+    },
+    {
+      "id": 7,
+      "title": "Hit Down Hard",
+      "style": "drill",
+      "theme": "Resilience, taking hits and standing, unbreakable",
+      "hook_concept": "Hit down hard, 3630, we in charge (in charge)"
+    },
+    {
+      "id": 8,
+      "title": "Harder End",
+      "style": "drill",
+      "theme": "Come from struggle, harder path chosen, rise from bottom",
+      "hook_concept": "Harder end of life, GV, still I rise (I rise)"
+    },
+    {
+      "id": 9,
+      "title": "Pulse in My Throat",
+      "style": "emotional_drill",
+      "theme": "Passion, drive felt physically, heart racing for the grind",
+      "hook_concept": "Pulse in my throat, 3630, feel the beat (the beat)"
+    },
+    {
+      "id": 10,
+      "title": "Watch Table",
+      "style": "drill",
+      "theme": "Seeing everything, awareness, moves watched closely",
+      "hook_concept": "Watch table, MBR, we stable (stable)"
+    },
+    {
+      "id": 11,
+      "title": "Mental Life",
+      "style": "emotional_drill",
+      "theme": "Mind battles, mental health, valley nights, survival",
+      "hook_concept": "Mental life, GV nights, meberunning (running)"
+    },
+    {
+      "id": 12,
+      "title": "New Souls",
+      "style": "trap_house",
+      "theme": "New generation, fresh energy, legacy building",
+      "hook_concept": "New souls, 3630, MBR goals (goals)"
+    },
+    {
+      "id": 13,
+      "title": "Dollar Signs",
+      "style": "trap_rap",
+      "theme": "Money focus, business mind, MBR empire",
+      "hook_concept": "Dollar signs, mebe money, MBR grind (grind)"
+    },
+    {
+      "id": 14,
+      "title": "Gang Gang Shepp",
+      "style": "drill",
+      "theme": "Shepparton solidarity, crew loyalty, town anthem",
+      "hook_concept": "Gang gang Shepp, GV, no step (no step)"
+    },
+    {
+      "id": 15,
+      "title": "Loyalty",
+      "style": "drill",
+      "theme": "Loyalty as currency, trust earned, code of the valley",
+      "hook_concept": "Loyalty, 3630, that's the fee (the fee)"
+    },
+    {
+      "id": 16,
+      "title": "Taking Love Away",
+      "style": "emotional_drill",
+      "theme": "Love loss, weathering the storm, holding on",
+      "hook_concept": "Taking love away, GV rain, still I stay (I stay)"
+    },
+    {
+      "id": 17,
+      "title": "The Hand You Don't Let Go",
+      "style": "emotional_drill",
+      "theme": "Unbreakable bond, family, holding hands through it all",
+      "hook_concept": "The hand you don't let go, 3630, home (home)"
+    },
+    {
+      "id": 18,
+      "title": "Safer Hands",
+      "style": "emotional_drill",
+      "theme": "Protection, trust, being the safe place",
+      "hook_concept": "Safer hands, GV plans, MBR stands (stands)"
+    },
+    {
+      "id": 19,
+      "title": "Up But Grounded",
+      "style": "trap_house",
+      "theme": "Success with humility, rise without forgetting roots",
+      "hook_concept": "Up but grounded, 3630, we founded (founded)"
+    },
+    {
+      "id": 20,
+      "title": "3630 That's Home",
+      "style": "drill",
+      "theme": "Home anthem, postcode pride, Shepparton forever",
+      "hook_concept": "3630 that's home, GV, meberunning (running)"
+    },
+    {
+      "id": 21,
+      "title": "Earn Back Trust",
+      "style": "emotional_drill",
+      "theme": "Redemption, proving change through action, accountability",
+      "hook_concept": "Earn back trust, 3630, rise from the dust (the dust)"
+    },
+    {
+      "id": 22,
+      "title": "I'm Sorry Shakeah",
+      "style": "emotional_drill",
+      "theme": "Apology, ownership, healing, love for family",
+      "hook_concept": "I'm sorry, GV rain, love remains (remains)"
+    },
+    {
+      "id": 23,
+      "title": "Matty Morgs RIP",
+      "style": "emotional_drill",
+      "theme": "Tribute, grief, brother lost, 3630 love forever",
+      "hook_concept": "Matty Morgs RIP, 3630, love never dies (never dies)"
+    },
+    {
+      "id": 24,
+      "title": "Happy Birthday Shakeah",
+      "style": "trap_house",
+      "theme": "Celebration, love, birthday tribute with club energy",
+      "hook_concept": "Happy birthday, GV, celebrate the day (the day)"
+    },
+    {
+      "id": 25,
+      "title": "Zaylen Cuzzy Bounce",
+      "style": "trap_dance",
+      "theme": "Son's track, family joy, kids dance energy",
+      "hook_concept": "Cuzzy bounce, 3630, jump around (jump around)"
+    },
+    {
+      "id": 26,
+      "title": "LILR3D",
+      "style": "drill",
+      "theme": "Loyalty to the crew, GV-bred, alliance track",
+      "hook_concept": "LILR3D, GV, MBR bred (bred)"
+    }
+  ]
+}

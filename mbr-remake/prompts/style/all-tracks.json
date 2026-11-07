@@ -1,0 +1,30 @@
+{
+  "label": "MBR-RECORDS",
+  "artist": "Ash Garner",
+  "genre": "Aussie Trap Rap Drill House",
+  "style_prompts": {
+    "trap_house": "australian trap house, bouncy 808, four-on-the-floor bounce, chant hook, confident male rap, raw aussie accent, club anthem, 145 bpm, minor key, deep sub bass, 3630",
+    "drill": "australian drill, sliding 808s, choppy staccato flow, dark piano loop, street anthem, raw aussie male rap, gritty, 140 bpm, minor key",
+    "trap_rap": "australian trap rap, heavy 808s, rolling flow, punchline bars, confident main man delivery, 143 bpm, minor key, chest-hitting sub bass",
+    "emotional_drill": "emotional drill, melodic hook, dark piano, sliding 808s, raw aussie male vocal, heartfelt but hard, 138 bpm, minor key, atmospheric",
+    "trap_dance": "australian trap dance, bouncy rolling pattern, chant hook, party energy, 148 bpm, dance floor, deep bass"
+  },
+  "brand_elements": [
+    "3630",
+    "GV",
+    "Shepp",
+    "Meberunning",
+    "MBR-RECORDS",
+    "Ash Garner",
+    "THE MAIN MAN"
+  ],
+  "ad_libs": [
+    "grrah",
+    "bow",
+    "huh",
+    "3630",
+    "GV",
+    "MBR",
+    "mebe"
+  ]
+}
